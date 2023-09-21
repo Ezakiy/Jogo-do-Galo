@@ -1,0 +1,38 @@
+C:\Users\121780.COOPTECNICA\source\repos\Capa do jogo\Capa do jogo\bin\Debug\Capa do jogo.exe.config
+C:\Users\121780.COOPTECNICA\source\repos\Capa do jogo\Capa do jogo\bin\Debug\Capa do jogo.exe
+C:\Users\121780.COOPTECNICA\source\repos\Capa do jogo\Capa do jogo\bin\Debug\Capa do jogo.pdb
+C:\Users\121780.COOPTECNICA\source\repos\Capa do jogo\Capa do jogo\bin\Debug\Capa do jogo.xml
+C:\Users\121780.COOPTECNICA\source\repos\Capa do jogo\Capa do jogo\obj\Debug\Capa_do_jogo.Resources.resources
+C:\Users\121780.COOPTECNICA\source\repos\Capa do jogo\Capa do jogo\obj\Debug\Capa do jogo.vbproj.GenerateResource.cache
+C:\Users\121780.COOPTECNICA\source\repos\Capa do jogo\Capa do jogo\obj\Debug\Capa do jogo.vbproj.CoreCompileInputs.cache
+C:\Users\121780.COOPTECNICA\source\repos\Capa do jogo\Capa do jogo\obj\Debug\Capa do jogo.exe
+C:\Users\121780.COOPTECNICA\source\repos\Capa do jogo\Capa do jogo\obj\Debug\Capa do jogo.xml
+C:\Users\121780.COOPTECNICA\source\repos\Capa do jogo\Capa do jogo\obj\Debug\Capa do jogo.pdb
+C:\Users\121780.COOPTECNICA\source\repos\Capa do jogo\Capa do jogo\obj\Debug\Capa do jogo.vbproj.AssemblyReference.cache
+C:\Users\121780.COOPTECNICA\source\repos\Capa do jogo\Capa do jogo\obj\Debug\Capa_do_jogo.Form3.resources
+C:\Users\121780.COOPTECNICA\source\repos\Capa do jogo\Capa do jogo\obj\Debug\Capa_do_jogo.Form2.resources
+C:\Users\121780.COOPTECNICA\source\repos\Capa do jogo\Capa do jogo\obj\Debug\Capa_do_jogo.Form4.resources
+C:\Users\121780.COOPTECNICA\source\repos\Capa do jogo\Capa do jogo\obj\Debug\Capa_do_jogo.Form5.resources
+Z:\Capa do jogo\Capa do jogo\obj\Debug\Capa do jogo.vbprojAssemblyReference.cache
+Z:\Capa do jogo\Capa do jogo\obj\Debug\Capa do jogo.exe
+Z:\Capa do jogo\Capa do jogo\obj\Debug\Capa do jogo.xml
+Z:\Capa do jogo\Capa do jogo\obj\Debug\Capa do jogo.pdb
+C:\Users\121780.COOPTECNICA\source\repos\Capa do jogo\Capa do jogo\obj\Debug\Capa do jogo.vbprojAssemblyReference.cache
+C:\Users\121780.COOPTECNICA\Desktop\Capa do jogo\Capa do jogo\obj\Debug\Capa do jogo.vbprojAssemblyReference.cache
+C:\Users\121780.COOPTECNICA\Desktop\Capa do jogo\Capa do jogo\obj\Debug\Capa do jogo.exe
+C:\Users\121780.COOPTECNICA\Desktop\Capa do jogo\Capa do jogo\obj\Debug\Capa do jogo.xml
+C:\Users\121780.COOPTECNICA\Desktop\Capa do jogo\Capa do jogo\obj\Debug\Capa do jogo.pdb
+C:\Users\121780.COOPTECNICA\Desktop\Capa do jogo - Cópia\Capa do jogo\obj\Debug\Capa do jogo.vbproj.AssemblyReference.cache
+C:\Users\121780.COOPTECNICA\Desktop\Capa do jogo - Cópia\Capa do jogo\obj\Debug\Capa do jogo.exe
+C:\Users\121780.COOPTECNICA\Desktop\Capa do jogo - Cópia\Capa do jogo\obj\Debug\Capa do jogo.xml
+C:\Users\121780.COOPTECNICA\Desktop\Capa do jogo - Cópia\Capa do jogo\obj\Debug\Capa do jogo.pdb
+C:\Users\121780.COOPTECNICA\Desktop\Capa do jogo - Cópia\Capa do jogo\bin\Debug\Capa do jogo.exe.config
+C:\Users\121780.COOPTECNICA\Desktop\Capa do jogo - Cópia\Capa do jogo\bin\Debug\Capa do jogo.exe
+C:\Users\121780.COOPTECNICA\Desktop\Capa do jogo - Cópia\Capa do jogo\bin\Debug\Capa do jogo.pdb
+C:\Users\121780.COOPTECNICA\Desktop\Capa do jogo - Cópia\Capa do jogo\bin\Debug\Capa do jogo.xml
+C:\Users\121780.COOPTECNICA\Desktop\Capa do jogo - Cópia\Capa do jogo\obj\Debug\Capa_do_jogo.Form2.resources
+C:\Users\121780.COOPTECNICA\Desktop\Capa do jogo - Cópia\Capa do jogo\obj\Debug\Capa_do_jogo.Form3.resources
+C:\Users\121780.COOPTECNICA\Desktop\Capa do jogo - Cópia\Capa do jogo\obj\Debug\Capa_do_jogo.Form4.resources
+C:\Users\121780.COOPTECNICA\Desktop\Capa do jogo - Cópia\Capa do jogo\obj\Debug\Capa_do_jogo.Resources.resources
+C:\Users\121780.COOPTECNICA\Desktop\Capa do jogo - Cópia\Capa do jogo\obj\Debug\Capa do jogo.vbproj.GenerateResource.cache
+C:\Users\121780.COOPTECNICA\Desktop\Capa do jogo - Cópia\Capa do jogo\obj\Debug\Capa do jogo.vbproj.CoreCompileInputs.cache
